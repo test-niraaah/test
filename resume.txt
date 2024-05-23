@@ -1,6 +1,3 @@
 this is a resume.
-<<<<<<< HEAD
 revised by main.
-=======
 revised by sub1.
->>>>>>> sub1
