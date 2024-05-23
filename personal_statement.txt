@@ -1,2 +1,6 @@
 this is a personal statement.
+<<<<<<< HEAD
 revised by main.
+=======
+revised by sub2.
+>>>>>>> sub2
